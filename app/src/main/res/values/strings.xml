@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HyWeiBo</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_title">微博接口测试</string>
+</resources>
